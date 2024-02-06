@@ -10,7 +10,7 @@ const parent = React.createElement("div",{id: "parent"},[
                 React.createElement("h2", {}, "I am an h2 tag"),
             ])
     ]);
-console.log("parent");
+console.log("parent"); // commeney
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
